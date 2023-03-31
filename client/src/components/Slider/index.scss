@@ -1,0 +1,9 @@
+.slider{
+  height: calc(100vh - 80px);
+  width: 100vw;
+  img{
+    height: 100%;
+    width: 100vw;
+    object-fit: cover;
+  }
+}
